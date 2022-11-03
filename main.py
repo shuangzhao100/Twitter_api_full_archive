@@ -85,7 +85,7 @@ query = 'H1B OR H-1B -is:retweet'
 # # can get who the user is following with get_users_following
 #
 # for user in users.data:
-#     print(user.profile_image_url
+#     print(user.profile_image_url)
 
 # get the users who retweet a
 # pass in the tweet id of a certain tweet
